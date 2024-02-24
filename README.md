@@ -1,1 +1,1 @@
-# GDSC_Hactron
+# GDSC_Hackatron
